@@ -1,10 +1,16 @@
 _repo: The-Sunny-South-An-Autumn-in-Spain-and-Majorca_49491
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49491-h/images/cover.jpg
 creator:
   author:
     agent_name: Clayton, John William
     gutenberg_agent_id: '45365'
     url: http://www.gutenberg.org/2009/agents/45365
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49491#The-Sunny-South-An-Autumn-in-Spain-and-Majorca
 gutenberg_issued: '2015-07-19'
 gutenberg_type: Text
 identifiers:
